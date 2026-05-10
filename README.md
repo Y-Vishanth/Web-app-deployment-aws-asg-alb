@@ -1,6 +1,6 @@
 # Web-app-deployment-aws-asg-alb
 # 🍽️ Spice Garden — AWS Production Web App Deployment
-
+![image alt](https://github.com/Y-Vishanth/Web-app-deployment-aws-asg-alb/blob/baee4f8b3492cf8ffb236b12d4d5d5606cc0f42f/screenshot.jpeg)
 A complete step-by-step guide to deploying a production-ready web application on AWS from scratch using only the AWS Console. This guide covers VPC, EC2, Application Load Balancer, Auto Scaling, CloudWatch monitoring, and SNS notifications — all on the AWS Free Tier.
 
 ---
